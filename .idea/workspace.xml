@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10ea9572-5a7f-4963-9d37-194e9ec4b504" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../mock_ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/kotlin/com/example/bkash_ui/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable-hdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable-mdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable-v21/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable-xhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable-xxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable-xxxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/values-night-v31/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/values-v31/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/app-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/flutter_native_splash.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/fonts/Pacifico-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/fonts/SourceSansPro-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/add_money.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/airtel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/ajkerdeal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/akash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/alert_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/b2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bangla_qr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/banner_four.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/banner_one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/banner_three.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/banner_two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bar-chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bar-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bdjobs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bdnews24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/binimoy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/birthday.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bk1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bk2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bk3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bk4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bk5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bk6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bk7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bkash_empy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/bkash_panda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/btcl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/card_bill.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/cash_out.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/cashback_offer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/coronabd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/currency.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/daraz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/desco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/discover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/donation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/edufee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/final_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/fly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/flyover_toll.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/fnf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/friends.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/gift.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/grameenphone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/ic_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/icon_reward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/istiaq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/kites.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/loan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/log_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/make_payment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/metlife.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/mfin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/mobile_recharge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/more.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/pay_bill.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/price_tag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/priyo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/recharge_offer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/refer_a_friend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/remitence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/rewards.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/right_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/robi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/savings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/send_money.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/shadhin_music.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/statement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/stiline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/success.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/taka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/thanks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/ticket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/tickets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/images/wedding.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/LaunchBackground.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/components/appbar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/components/balance_button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/components/carousel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/components/expanded_menu.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/components/menu.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/components/notification.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/components/scroll_menu.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/components/transactions.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/screens/home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/screens/inbox.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/lib/screens/navigation_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/linux/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/dark-1x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/dark-1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/dark-2x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/dark-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/dark-3x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/dark-3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/dark-4x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/dark-4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-1x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-2x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-3x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-4x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/web/splash/img/light-background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock_ui/windows/runner/win32_window.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YOxUZZWiznNDeI4rTa4h7FqOBk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "C:/Users/Himu/StudioProjects/MentorShip/bkash_ui",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Himu\StudioProjects\MentorShip\mock_ui\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10ea9572-5a7f-4963-9d37-194e9ec4b504" name="Changes" comment="" />
+      <created>1700410443368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700410443368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
